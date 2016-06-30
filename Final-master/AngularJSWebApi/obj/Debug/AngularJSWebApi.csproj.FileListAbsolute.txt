@@ -1,0 +1,315 @@
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\AngularJSWebApi.dll.config
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\AngularJSWebApi.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\AngularJSWebApi.pdb
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\Antlr3.Runtime.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\EntityFramework.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\EntityFramework.SqlServer.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Google.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Web.Infrastructure.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\Newtonsoft.Json.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\Owin.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\System.Net.Http.Formatting.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Helpers.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Http.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Http.Owin.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Http.WebHost.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Mvc.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Optimization.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Razor.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\System.Web.WebPages.Deployment.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\System.Web.WebPages.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\System.Web.WebPages.Razor.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\WebGrease.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\Antlr3.Runtime.pdb
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\EntityFramework.xml
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\EntityFramework.SqlServer.xml
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.xml
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.xml
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Google.xml
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\Newtonsoft.Json.xml
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\System.Net.Http.Formatting.xml
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Helpers.xml
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Http.xml
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Http.Owin.xml
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Http.WebHost.xml
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Mvc.xml
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Optimization.xml
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Razor.xml
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\System.Web.WebPages.xml
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\System.Web.WebPages.Deployment.xml
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\bin\System.Web.WebPages.Razor.xml
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\obj\Debug\AngularJSWebApi.csprojResolveAssemblyReference.cache
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\obj\Debug\AngularJSWebApi.dll
+c:\users\praveensh\documents\visual studio 2013\Projects\AngularJSWebApi\AngularJSWebApi\obj\Debug\AngularJSWebApi.pdb
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\AngularJSWebApi.dll.config
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\AngularJSWebApi.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\AngularJSWebApi.pdb
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\Antlr3.Runtime.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\EntityFramework.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\Newtonsoft.Json.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\Owin.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Helpers.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Http.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Http.Owin.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Mvc.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Optimization.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Razor.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\System.Web.WebPages.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\WebGrease.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\EntityFramework.xml
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.xml
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\Newtonsoft.Json.xml
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Helpers.xml
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Http.xml
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Http.Owin.xml
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Mvc.xml
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Optimization.xml
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Razor.xml
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\System.Web.WebPages.xml
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\obj\Debug\AngularJSWebApi.csprojResolveAssemblyReference.cache
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\obj\Debug\AngularJSWebApi.dll
+C:\Users\praveensh\Desktop\AngularJSWebApi\AngularJSWebApi\obj\Debug\AngularJSWebApi.pdb
+D:\AngularJSWebApi\AngularJSWebApi\bin\AngularJSWebApi.dll.config
+D:\AngularJSWebApi\AngularJSWebApi\bin\AngularJSWebApi.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\AngularJSWebApi.pdb
+D:\AngularJSWebApi\AngularJSWebApi\bin\Antlr3.Runtime.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\EntityFramework.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\EntityFramework.SqlServer.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Cookies.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Facebook.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Google.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Twitter.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\Newtonsoft.Json.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\Owin.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\System.Net.Http.Formatting.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Helpers.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Http.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Http.Owin.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Http.WebHost.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Mvc.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Optimization.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Razor.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\System.Web.WebPages.Deployment.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\System.Web.WebPages.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\System.Web.WebPages.Razor.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\WebGrease.dll
+D:\AngularJSWebApi\AngularJSWebApi\bin\Antlr3.Runtime.pdb
+D:\AngularJSWebApi\AngularJSWebApi\bin\EntityFramework.xml
+D:\AngularJSWebApi\AngularJSWebApi\bin\EntityFramework.SqlServer.xml
+D:\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.xml
+D:\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.xml
+D:\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Cookies.xml
+D:\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Facebook.xml
+D:\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Google.xml
+D:\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Twitter.xml
+D:\AngularJSWebApi\AngularJSWebApi\bin\Newtonsoft.Json.xml
+D:\AngularJSWebApi\AngularJSWebApi\bin\System.Net.Http.Formatting.xml
+D:\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Helpers.xml
+D:\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Http.xml
+D:\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Http.Owin.xml
+D:\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Http.WebHost.xml
+D:\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Mvc.xml
+D:\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Optimization.xml
+D:\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Razor.xml
+D:\AngularJSWebApi\AngularJSWebApi\bin\System.Web.WebPages.xml
+D:\AngularJSWebApi\AngularJSWebApi\bin\System.Web.WebPages.Deployment.xml
+D:\AngularJSWebApi\AngularJSWebApi\bin\System.Web.WebPages.Razor.xml
+D:\AngularJSWebApi\AngularJSWebApi\obj\Debug\AngularJSWebApi.csprojResolveAssemblyReference.cache
+D:\AngularJSWebApi\AngularJSWebApi\obj\Debug\AngularJSWebApi.dll
+D:\AngularJSWebApi\AngularJSWebApi\obj\Debug\AngularJSWebApi.pdb
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\AngularJSWebApi.dll.config
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\AngularJSWebApi.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\AngularJSWebApi.pdb
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\Antlr3.Runtime.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\EntityFramework.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\EntityFramework.SqlServer.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Google.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\Newtonsoft.Json.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\Owin.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\System.Net.Http.Formatting.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Helpers.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Http.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Http.Owin.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Http.WebHost.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Mvc.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Optimization.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Razor.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\System.Web.WebPages.Deployment.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\System.Web.WebPages.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\System.Web.WebPages.Razor.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\WebGrease.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\Antlr3.Runtime.pdb
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\EntityFramework.xml
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\EntityFramework.SqlServer.xml
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.xml
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.xml
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Google.xml
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\Newtonsoft.Json.xml
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\System.Net.Http.Formatting.xml
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Helpers.xml
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Http.xml
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Http.Owin.xml
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Http.WebHost.xml
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Mvc.xml
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Optimization.xml
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\System.Web.Razor.xml
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\System.Web.WebPages.xml
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\System.Web.WebPages.Deployment.xml
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\bin\System.Web.WebPages.Razor.xml
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\obj\Debug\AngularJSWebApi.csprojResolveAssemblyReference.cache
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\obj\Debug\AngularJSWebApi.dll
+D:\Workshop\FinalProject\AngularJSWebApi\AngularJSWebApi\obj\Debug\AngularJSWebApi.pdb
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\obj\Debug\AngularJSWebApi.csprojResolveAssemblyReference.cache
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\obj\Debug\AngularJSWebApi.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\AngularJSWebApi.dll.config
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\AngularJSWebApi.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\AngularJSWebApi.pdb
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\Antlr3.Runtime.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\EntityFramework.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\Microsoft.Owin.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\Newtonsoft.Json.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\Owin.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\System.Web.Helpers.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\System.Web.Http.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\System.Web.Http.Owin.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\System.Web.Mvc.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\System.Web.Optimization.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\System.Web.Razor.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\System.Web.WebPages.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\WebGrease.dll
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\EntityFramework.xml
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\Microsoft.Owin.xml
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\Newtonsoft.Json.xml
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\System.Web.Helpers.xml
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\System.Web.Http.xml
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\System.Web.Http.Owin.xml
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\System.Web.Mvc.xml
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\System.Web.Optimization.xml
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\System.Web.Razor.xml
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\System.Web.WebPages.xml
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\praveen\Downloads\Final-master\Final-master\AngularJSWebApi\obj\Debug\AngularJSWebApi.pdb

@@ -1,0 +1,62 @@
+﻿@model IEnumerable<AngularJSWebApi.Models.Passenger>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 style="color:teal;text-align:center;">Passengers List</h2>
+
+<p>
+    @Html.ActionLink("Add New", "Details")
+</p>
+<table class="table" border="1">
+    <tr>
+        <th>
+          Name
+        </th>
+        <th>
+            Age
+        </th>
+        <th>
+          Gender
+        </th>
+        
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.age)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.gender)
+        </td>
+      
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.passenger_id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.passenger_id })
+        </td>
+    </tr>
+}
+    
+</table>
+<br/>
+<br/>
+
+
+    <div>
+       <b><u><a href="http://localhost:62541/Login/Seat" style="color:brown">Seat Preference</a></u></b> 
+    </div>
+
+<br/>
+<br/>
+
+   
+@if(ViewBag.error!=null)
+{
+    <h2 style="color:red;">*@ViewBag.error*</h2>
+}

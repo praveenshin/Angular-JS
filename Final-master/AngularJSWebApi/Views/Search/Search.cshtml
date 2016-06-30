@@ -1,0 +1,145 @@
+﻿@model IEnumerable<AngularJSWebApi.Models.Bus>
+
+@{
+    ViewBag.Title = "Search";
+}
+
+
+
+    <h1><u><font color="blue"> Buses from @ViewBag.src to @ViewBag.dest</font></u></h1>
+
+    <br />
+    <br />
+  
+@if (ViewBag.message == 0)
+{
+         <font color="Red"><p>*Sorry Not Available*</p></font>
+
+}
+@if (ViewBag.cid == "-1" && ViewBag.message != 0 )
+{
+     <table class="table" border="1">
+        <tr>
+            <th>
+                Bus Name
+            </th>
+            <th>
+                Number
+            </th>
+            <th>
+                Departure Time
+            </th>
+            <th>
+                Source
+            </th>
+            <th>
+                Destination
+            </th>
+            <th>
+                Type
+            </th>
+            <th>Seats Available</th>
+            <th>Journey Date</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.bus_name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.bus_no)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.departure_time)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Route.source)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Route.destination)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Category.type)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.capacity)
+                </td>
+                <td>
+                    @item.start_date
+                </td>
+                <td>
+                   
+                    <font color="red">@Html.ActionLink("Check Fare", "Fare", new { id = item.bus_id }, new { style = "color:Brown;" }) </font>
+
+                </td>
+            </tr>
+        }
+
+    </table>
+}
+else if (ViewBag.cid != "-1" && ViewBag.message!=0)
+{
+    <table class="table" border="1">
+        <tr>
+            <th>
+                Bus Name
+            </th>
+            <th>
+                Number
+            </th>
+            <th>
+                Departure Time
+            </th>
+            <th>
+                Source
+            </th>
+            <th>
+                Destination
+            </th>
+            <th>
+                Type
+            </th>
+            <th>
+                Seats Available
+            </th>
+            <th>Journey Date</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.bus_name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.bus_no)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.departure_time)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Route.source)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Route.destination)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Category.type)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.capacity)
+                </td>
+                <td>
+                   @item.start_date
+                </td>
+                <td>
+                  @Html.ActionLink("Book Ticket", "Book", new { id = item.bus_id }, new { style = "color:Brown;" })<font color="lime">|</font>
+                 @Html.ActionLink("Check Fare", "Fare", new { id = item.bus_id }, new { style = "color:Brown;" })
+                </td>
+            </tr>
+        }
+
+    </table>
+}
